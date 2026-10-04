@@ -14,7 +14,8 @@
     "namespace": "android_app",
     "package_name": "io.github.walterwood1995.tutor",
     "sha256_cert_fingerprints": [
-      "1B:A9:B5:29:85:4A:A7:DA:06:26:B1:D3:71:36:BE:53:95:F5:88:65:BF:A5:07:E4:6A:55:F1:9F:4B:82:D1:54"
+      "1B:A9:B5:29:85:4A:A7:DA:06:26:B1:D3:71:36:BE:53:95:F5:88:65:BF:A5:07:E4:6A:55:F1:9F:4B:82:D1:54",
+      "AA:CD:C0:63:59:15:B1:BB:7B:55:8B:0D:FD:49:70:31:CE:F6:B2:DF:D6:E1:2A:03:8A:14:41:57:BC:82:3E:65"
     ]
   }
 }]
