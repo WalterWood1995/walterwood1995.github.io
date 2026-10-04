@@ -8,4 +8,13 @@
       "E2:F5:DE:34:CC:4B:D1:6B:F3:63:AD:33:61:BD:96:58:F6:1C:82:58:9C:F4:69:CC:A6:60:21:F5:2C:61:86:0C"
     ]
   }
+}, {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.walterwood1995.tutor",
+    "sha256_cert_fingerprints": [
+      "1B:A9:B5:29:85:4A:A7:DA:06:26:B1:D3:71:36:BE:53:95:F5:88:65:BF:A5:07:E4:6A:55:F1:9F:4B:82:D1:54"
+    ]
+  }
 }]
